@@ -23,7 +23,7 @@ public class MainActivity extends Activity implements View.OnClickListener{
 
         CustomActionBar actionBar = new CustomActionBar(this);
         actionBar.setActionBarLayout(R.layout.actionbar);
-        actionBar.setTitle("首页");
+        actionBar.setTitle("首页1");
 
         initContent();
         setAdView();
